@@ -3,8 +3,9 @@
 ## i'm a beginner in programming
 
 
-## Languages
+### Languages
 ![Node.js](https://img.shields.io/badge/Node.js-131723?style=for-the-badge&logo=Node.js&logoColor=73aa63)
 ![LUA](https://img.shields.io/badge/Lua-131723?style=for-the-badge&logo=Lua&logoColor=04046a)
 
-Follow me
+### Follow me
+[![VK](https://img.shields.io/badge/VK-131723?style=for-the-badge&logo=VK&logoColor=)](vk.com/samurasa)
