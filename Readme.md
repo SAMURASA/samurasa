@@ -8,4 +8,4 @@
 ![LUA](https://img.shields.io/badge/Lua-131723?style=for-the-badge&logo=Lua&logoColor=04046a)
 
 ### Follow me
-[![VK](https://img.shields.io/badge/VK-131723?style=for-the-badge&logo=VK&logoColor=)](vk.com/samurasa)
+[![VK](https://img.shields.io/badge/VK-131723?style=for-the-badge&logo=VK&logoColor=)](https://vk.com/samurasa)
