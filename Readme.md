@@ -1,4 +1,4 @@
-[![Samurasa](./assets/samurasa.gif)](https://vk.com/samurasa)
+[![Samurasa](./assets/xtras.gif)](https://vk.com/samurasa)
 
 ## i'm a beginner in programming
 
