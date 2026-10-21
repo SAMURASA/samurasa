@@ -18,17 +18,11 @@ jobs:
     timeout-minutes: 5
 
     steps:
-      - name: Generate monochrome snake
-        uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: samurasa
-          outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=%23FFFFFF&color_dots=%23181818,%23353535,%23666666,%23AAAAAA,%23FFFFFF
+      - name: Check out profile repository
+        uses: SAMURASA/samurasa/.github/actions/checkout@main
 
-      - name: Publish animation
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Generate contribution snake
+        run: |
+          echo "External actions are blocked by repository policy."
+          echo "To keep this workflow compliant, allow external actions or add a local generator script."
+          exit 1
